@@ -2,7 +2,7 @@
 <h3 align="center">A passionate 𝗔𝗪𝗦∞𝗗𝗲𝘃𝗢𝗽𝘀 Engineer from India</h3>
 
 
-- 🔭 I’m currently working on **to building 10+ Projects in DevOps with complete CI-CD Pipelines**
+- 🔭 I’m currently working on **to building 2+ Projects in DevOps with complete CI-CD Pipelines**
 
 - 🌱 I’m currently learning **Cloud & DevOps**
 
@@ -28,11 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vishal-bhat-253806267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaithanya dasari" height="30" width="40" /></a>
-<a href="https://instagram.com/bhatt.vishalanil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_chaithanya__" height="30" width="40" /></a>
-</p>
+
 <div class="col-2">
     <div class="about-item skills">
         <h1>Skills</h1>
@@ -49,6 +45,12 @@ Here are some ideas to get you started:
         </ul>
     </div>
 </div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/vishal-bhat-253806267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaithanya dasari" height="30" width="40" /></a>
+<a href="https://instagram.com/bhatt.vishalanil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_chaithanya__" height="30" width="40" /></a>
+</p>
 
 
 
