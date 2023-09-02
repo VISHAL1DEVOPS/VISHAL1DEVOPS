@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-                <a href="https://www.linkedin.com/in/vishal-bhat-253806267/" target="_blank" class="fab fa-linkedin-in" id="profile-link"></a>
-                <a href="https://github.com/VISHAL1DEVOPS" target="_blank" class="fab fa-github"></a>
-                <a href="https://wa.link/ngls6s" target="_blank" class="fab fa-whatsapp"></a>
-                <a href="http://t.me/vishal9423" target="_blank" class="fab fa-telegram" id="profile-link"></a>
-
+<a href="https://www.linkedin.com/in/vishal-bhat-253806267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaithanya dasari" height="30" width="40" /></a>
+<a href="https://instagram.com/bhatt.vishalanil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_chaithanya__" height="30" width="40" /></a>
 </p>
