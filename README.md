@@ -50,7 +50,9 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://www.linkedin.com/in/vishal-bhat-253806267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaithanya dasari" height="30" width="40" /></a>
 <a href="https://instagram.com/bhatt.vishalanil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_chaithanya__" height="30" width="40" /></a>
+<a href="https://wa.link/ngls6s" target="blank"><img align="center" src="https://www.svgrepo.com/download/303147/whatsapp-icon-logo.svg" alt="WhatsApp's" height="30" width="40" /></a>
 </p>
+
 
 
 
