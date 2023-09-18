@@ -37,6 +37,13 @@ Here are some ideas to get you started:
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+<h3 align="left">Operating Systems:</h3>
+
+[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+
+<h3 align="left">Web Development:</h3>
+
+<a> <img src="https://th.bing.com/th/id/R.a89da1f0dab6e74fa8e0075ed72b0aa3?rik=9jxZkxIFyVUhDA&riu=http%3a%2f%2fandypanix.com%2fsites%2fandypanix.com%2ffiles%2f134%2fhttpdlogowide.png&ehk=OfhOiYPyQidg5IH2zahJkpPX1%2b%2fcHH%2bB5Zi3vlLEHJI%3d&risl=&pid=ImgRaw&r=0" width="65" height="35"/> </a>
 
 <div class="col-2">
     <div class="about-item skills">
