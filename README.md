@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 <h3 align="left">Operating Systems:</h3>
 
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+<a href = "https://www.linux.org/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></a> <a href = "https://code.visualstudio.com/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a>  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
+
 
 <h3 align="left">Web Development:</h3>
 
