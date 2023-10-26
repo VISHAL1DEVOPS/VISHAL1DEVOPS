@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=4000&color=13F700&background=EB00FF00&center=true&vCenter=true&width=250&lines=𝗔𝗪𝗦;∞;𝗗𝗲𝘃𝗢𝗽𝘀;Engineer)](https://git.io/typing-svg)
 </div>
 <h3 align="center">A passionate 𝗔𝗪𝗦∞𝗗𝗲𝘃𝗢𝗽𝘀 Engineer from India</h3>
-<h4 align="center">"I have Experienced AWS DevOps Engineer with over 1 years of experience designing and implementing automated solutions for managing, deploying, and monitoring systems. Skilled in using AWS services such as EC2, S3, ELB, RDS, IAM, Route 53, VPC, Cloud Watch. Proficient in monitoring servers using Cloud Watch. Adept at collaborating with cross-functional teams to drive project success."</h4>
+<h4 align="center">"I have designing and implementing automated solutions for managing, deploying, and monitoring systems. Skilled in using AWS services such as EC2, S3, ELB, RDS, IAM, Route 53, VPC, Cloud Watch. Proficient in monitoring servers using Cloud Watch. Adept at collaborating with cross-functional teams to drive project success."</h4>
 
 
 - 🔭 I’m currently working on **to building 2+ Projects in DevOps with complete CI-CD Pipelines**
